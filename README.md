@@ -1,10 +1,10 @@
 # Real-Time Chat Application  
-
+---
 This is a **real-time chat application** built using the **MERN stack and socket.io**.
 Real time functionality is enabled using socket.io
 It allows users to chat with others seamlessly while providing a visually appealing and customizable user interface.
 Project deployed on render.
----
+
 ## Live Demo  
 Check out the live application [here](https://chatty-sx8k.onrender.com/).  
 
